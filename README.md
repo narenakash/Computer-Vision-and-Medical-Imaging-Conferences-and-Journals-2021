@@ -1,5 +1,7 @@
 # Computer Vision and Medical Imaging Conferences and Journals: 2021
 
+Disclaimer: The information on this document might be inaccurate or obsolete. Please do cross-check the details to avoid errors and stay updated.
+
 ## Conferences in 2021
 
 | Dates | Name | Deadline | Venue |
@@ -60,3 +62,4 @@
 |--- | --- | --- | --- |
 | *To be announced* |  [Computer Vision and Pattern Recognition]() `CVPR` | *To be announced* | Nashville, USA |
 | *To be announced* | [International Conference on Computer Vision]() `ICCV` | *To be announced* | Xi'an, China | 
+
