@@ -41,7 +41,7 @@ This is a curated list of top conferences, and journals in the field of computer
 | Dates | Conference | Workshop Name | Deadline | Venue |
 |--- | --- | --- | --- | --- |
 | June TBA, 2021 | CVPR | [Sixth International Skin Imaging Collaboration (ISIC) Workshop on Skin Image Analysis](https://workshop2021.isic-archive.com/) | March 17, 2021 | Virtual |
-| June TBA, 2021 | CVPR | [Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv21) | | Virtual |
+| June TBA, 2021 | CVPR | [Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv21) | TBA | Virtual |
 | June TBA, 2021 | CVPR | [Workshop on Computer Vision for Microscopy Image Analysis](https://cvmi2021.github.io/) | March 22, 2021 | Virtual |
 
 ## Journals 2021
