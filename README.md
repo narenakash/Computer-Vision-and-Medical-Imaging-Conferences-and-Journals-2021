@@ -34,8 +34,11 @@
 | December 15 - 18, 2021 | [Automatic Face and Gesture Recognition](http://iab-rubric.org/fg2021/) `FG` | April 15, 2021 | IIT Jodhpur, India |
 
 ## Medical Computer Vision Workshops 2021 
-| Dates | Name | Deadline | Venue |
-|--- | --- | --- | --- |
+| Dates | Conference | Workshop Name | Deadline | Venue |
+|--- | --- | --- | --- | --- |
+| June TBA, 2021 | CVPR | [Sixth International Skin Imaging Collaboration (ISIC) Workshop on Skin Image Analysis](https://workshop2021.isic-archive.com/) | March 17, 2021 | Virtual |
+| June TBA, 2021 | CVPR | [Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv21) | | Virtual |
+| June TBA, 2021 | CVPR | [Workshop on Computer Vision for Microscopy Image Analysis](https://cvmi2021.github.io/) | March 22, 2021 | Virtual |
 
 ## Journal Deadlines 2021
 | Name | Impact Factor | Publishing Group | 
