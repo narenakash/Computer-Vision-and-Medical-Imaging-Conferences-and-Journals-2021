@@ -12,7 +12,7 @@ This is a curated list of top conferences, and journals in the field of computer
 |--- | --- | --- | --- |
 | January 01 - 03, 2021 | [International Conference on Image and Graphics Processing](http://icigp.org/) `ICIGP` | November 30, 2020 | Sanya, China | 
 | January 05 - 09, 2021 | [Winter Conference on Applications of Computer Vision](http://wacv2021.thecvf.com/) `WACV` | June 24, 2020 | Virtual |
-| January 10 - 15, 2020 | [International Conference on Pattern Recognition](http://www.icpr2020.it/) `ICPR` | December 10, 2020 | Milan, Italy |
+| January 10 - 15, 2021 | [International Conference on Pattern Recognition](http://www.icpr2020.it/) `ICPR` | December 10, 2020 | Milan, Italy |
 | January 11 - 28, 2021 | [Electronic Imaging Symposium](https://www.imaging.org/site/ist) `EI` | October 07, 2020 | Virtual |
 |January 19 - 22, 2021 | [ Joint Workshops on Statistical Techniques in Pattern Recognition Structural and Syntactic Pattern Recognition Workshop](https://www.dais.unive.it/sspr2020/) `S+SSPR` | November 15, 2020 | Virtual | 
 | February 04 - 06, 2021 | [International Conference on Pattern Recognition Applications and Methods](http://www.icpram.org/) `ICPRAM` | October 06, 2020 | Virtual |
