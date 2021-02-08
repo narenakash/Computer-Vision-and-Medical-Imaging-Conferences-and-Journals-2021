@@ -47,22 +47,22 @@ This is a curated list of top conferences, and journals in the field of computer
 ## Journals 2021
 | Name | Impact Factor | Publishing Group | 
 |--- | --- | --- |
-| [Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) `TPAMI` ![](https://img.shields.io/badge/%20-Top--tier-green)| 17.861 | IEEE | |
-| [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) `MedIA` ![](https://img.shields.io/badge/Medical-Exclusive-blue)![](https://img.shields.io/badge/%20-Top--tier-green)| 11.148 | Elsevier |  |
-| [Transactions on Medical Imaging](https://www.embs.org/tmi/) `TMI` ![](https://img.shields.io/badge/Medical-Exclusive-blue)![](https://img.shields.io/badge/%20-Top--tier-green)| 6.685 | IEEE | |
-| [Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) `TIP` ![](https://img.shields.io/badge/%20-Top--tier-green)| 9.34 | IEEE | |
-| [The Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) `J-BHI` ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 5.223 | IEEE | |
-| [The Journal of Machine Learning for Biomedical Imaging](https://www.melba-journal.org/) `MELBA` ![](https://img.shields.io/badge/Medical-Exclusive-blue)| NA | NA | |
+| [Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) `TPAMI` ![](https://img.shields.io/badge/%20-Top--tier-green)| 17.861 | IEEE | 
+| [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) `MedIA` ![](https://img.shields.io/badge/Medical-Exclusive-blue)![](https://img.shields.io/badge/%20-Top--tier-green)| 11.148 | Elsevier |  
+| [Transactions on Medical Imaging](https://www.embs.org/tmi/) `TMI` ![](https://img.shields.io/badge/Medical-Exclusive-blue)![](https://img.shields.io/badge/%20-Top--tier-green)| 6.685 | IEEE | 
+| [Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) `TIP` ![](https://img.shields.io/badge/%20-Top--tier-green)| 9.34 | IEEE | 
+| [The Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) `J-BHI` ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 5.223 | IEEE | 
+| [The Journal of Machine Learning for Biomedical Imaging](https://www.melba-journal.org/) `MELBA` ![](https://img.shields.io/badge/Medical-Exclusive-blue)| NA | NA | 
 | [NeuroImage](https://www.journals.elsevier.com/neuroimage) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 5.902 | Elsevier | 
-| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 | Elsevier | |
-| [Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 4.424 | IEEE | |
-| [International Journal of Computer Vision](https://www.springer.com/journal/11263/) `IJCV` | 5.698 | Springer | |
-| [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 4.421 | Wiley | |
-| [Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) | 4.558 | IEEE | |
-| [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters) | 3.255 | Elsevier | |
-| [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding) `CVIA` | 3.121 | Elsevier | |
-| [Computerized Medical Imaging and Graphics](https://www.journals.elsevier.com/computerized-medical-imaging-and-graphics) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 3.750 | Elsevier | |
-| [Graphical Models](https://www.journals.elsevier.com/graphical-models) `Formerly, CVGIP` | 1.224 | Elsevier | |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 | Elsevier | 
+| [Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 4.424 | IEEE | 
+| [International Journal of Computer Vision](https://www.springer.com/journal/11263/) `IJCV` | 5.698 | Springer | 
+| [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 4.421 | Wiley | 
+| [Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) | 4.558 | IEEE | 
+| [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters) | 3.255 | Elsevier | 
+| [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding) `CVIA` | 3.121 | Elsevier | 
+| [Computerized Medical Imaging and Graphics](https://www.journals.elsevier.com/computerized-medical-imaging-and-graphics) ![](https://img.shields.io/badge/Medical-Exclusive-blue)| 3.750 | Elsevier | 
+| [Graphical Models](https://www.journals.elsevier.com/graphical-models) `Formerly, CVGIP` | 1.224 | Elsevier | 
 
 ## Conferences in 2022
 
