@@ -2,9 +2,9 @@
 
 This is a curated list of top conferences, and journals in the field of computer vision, and medical image analysis. It is primarily intended to help the students of [Medical Image Analysis](http://cvit.iiit.ac.in/projects/mip/) group, [Center for Visual Information Technology](http://cvit.iiit.ac.in/) at IIIT Hyderabad.
 
-How to contribute? Fork the reposittory. Update the README.md file, and send a pull request. Everybody is most welcome to contribute!
+- How to contribute? Fork the reposittory. Update the README.md file, and send a pull request. Everybody is most welcome to contribute!
 
-Disclaimer: The information on this document might be inaccurate or obsolete. Please do cross-check the details to avoid errors and stay updated.
+- Disclaimer: The information on this document might be inaccurate or obsolete. Please do cross-check the details to avoid errors and stay updated.
 
 ## Conferences in 2021
 
@@ -44,7 +44,7 @@ Disclaimer: The information on this document might be inaccurate or obsolete. Pl
 | June TBA, 2021 | CVPR | [Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv21) | | Virtual |
 | June TBA, 2021 | CVPR | [Workshop on Computer Vision for Microscopy Image Analysis](https://cvmi2021.github.io/) | March 22, 2021 | Virtual |
 
-## Journal Deadlines 2021
+## Journals 2021
 | Name | Impact Factor | Publishing Group | 
 |--- | --- | --- |
 | [Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) `TPAMI` ![](https://img.shields.io/badge/%20-Top--tier-green)| 17.861 | IEEE | |
